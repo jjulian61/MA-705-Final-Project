@@ -30,10 +30,15 @@ for x in propTypes:
 
 Additional Sources:
 
+Source Link: https://www.zillow.com/new-york-ny/luxury-homes/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22usersSearchTerm%22%3A%22New%20York%2C%20NY%22%2C%22mapBounds%22%3A%7B%22west%22%3A-75.14560507226561%2C%22east%22%3A-72.81375692773436%2C%22south%22%3A40.313249872008896%2C%22north%22%3A41.080245589061086%7D%2C%22regionSelection%22%3A%5B%7B%22regionId%22%3A6181%2C%22regionType%22%3A6%7D%5D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22priced%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A9%7D
+
+selenium:
 https://www.guru99.com/selenium-python.html
 
+XPATH:
 https://www.guru99.com/xpath-selenium.html
 
+cleanhtml:
 https://webautomation.io/blog/how-to-clean-web-scraping-data-using-python-beautifulsoup/
 
 
