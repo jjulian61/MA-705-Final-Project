@@ -12,7 +12,7 @@ Price, #Beds, #Baths, and Square Footage
 
 Detailed information, such as address and lister, from search results are presented in a table.
 
-The pie chart shows the breakdown of the search results by Property Lister Name
+The pie chart shows the breakdown of search results by Property Lister Name
 
 
 Disclaimer: Zillow property listings are not static. Output results from the Cleaned Data Final Project.py file one month, or even a week from now may be different. But, the code will still generate the top 40 most expensive condo listings in NY on Zillow.
