@@ -32,6 +32,9 @@ for x in propTypes:
 4. Put Data into Dashboard using Dash
 
 Additional Sources 
+https://www.guru99.com/selenium-python.html
+https://www.guru99.com/xpath-selenium.html
+
 
 
   
