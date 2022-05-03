@@ -2,5 +2,12 @@
 
 I did my project on the Top 40 Most Expensive Condo Listings in NYC on Zillow
 
-I wanted to put this data into a dashboard, and examine these properties in a way that Zillow, or any other websites that listed them may have missed
+I wanted to examine these properties in a way that Zillow may have missed
+I specifically wanted to alleviate the problem of only a few properties being visible at once on the scroll bar. So, I created a dashboard that simulataneously displays displays all relevant properties and their info.
+
+
+Preparation Steps
+
+
+
 
