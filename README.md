@@ -7,14 +7,8 @@ I wanted to examine these properties in a way that Zillow may have missed
 
 On Zillow, in particular, only a few properties are visible at once on the scroll bar. So, I created a dashboard that more conveniently displays all relevant properties and parameters.
 
-The Dashboard allows users to find properties based on the following criteria:
-Price Range
-
-#Beds
-
-#Baths
-
-Square Footage
+The Dashboard allows users to find properties based on the following criteria: 
+Price Range, #Beds, #Baths, and Square Footage
 
 Detailed information, such as address and lister, from search results are presented in a table.
 The pie chart the shows the breakdown of the search results by Property Lister Name
@@ -34,9 +28,12 @@ for x in propTypes:
 3. Combined all elements into a list and saved as a pickle file
 4. Put Data into Dashboard using Dash
 
-Additional Sources 
+Additional Sources:
+
 https://www.guru99.com/selenium-python.html
+
 https://www.guru99.com/xpath-selenium.html
+
 https://webautomation.io/blog/how-to-clean-web-scraping-data-using-python-beautifulsoup/
 
 
