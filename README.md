@@ -4,6 +4,7 @@ I did my project on the Top 40 Most Expensive Condo Listings in NYC on Zillow (A
 What is the Dashboard About:
 
 I wanted to examine these properties in a way that Zillow may have missed
+
 On Zillow, in particular, only a few properties are visible at once on the scroll bar. So, I created a dashboard that more conveniently displays all relevant properties and parameters.
 
 The Dashboard allows users to find properties based on the following criteria:
