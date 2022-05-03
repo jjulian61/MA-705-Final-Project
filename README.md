@@ -11,6 +11,7 @@ The Dashboard allows users to find properties based on the following criteria:
 Price, #Beds, #Baths, and Square Footage
 
 Detailed information, such as address and lister, from search results are presented in a table.
+
 The pie chart the shows the breakdown of the search results by Property Lister Name
 
 
