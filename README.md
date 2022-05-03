@@ -20,7 +20,7 @@ Disclaimer: Zillow property listings are not static. Output results from the Cle
 Python Programs Used: pandas, selenium, time, re, pickle, html, dash
 
 Preparation Steps:
-1. Used selenium webdriver to extract source code source site
+1. Used selenium webdriver to extract source code from source site
 2. Used selenium webdriver to extract desired elements from source site (property type, price, lister, address, #beds, #baths, square footage). i.e.propTypes=driver.find_elements(By.XPATH,"//li[@class='list-card-statusText']")
 3. Used an html for loop on each element to obtained cleansed data. i.e. i=0
 for x in propTypes:
