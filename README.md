@@ -14,7 +14,7 @@ Detailed information, such as address and lister, from search results are presen
 The pie chart the shows the breakdown of the search results by Property Lister Name
 
 
-Disclaimer: Zillow property listings are not static. Output results from the Cleaned Data Final Project.py file one month, or even a week from now may be different. But, the code will still generate the top 40 most expensive condo listings on Zillow.
+Disclaimer: Zillow property listings are not static. Output results from the Cleaned Data Final Project.py file one month, or even a week from now may be different. But, the code will still generate the top 40 most expensive condo listings in NY on Zillow.
 
 Python Programs Used: pandas, selenium, time, re, pickle, html, dash
 
