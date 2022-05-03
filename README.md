@@ -9,8 +9,11 @@ On Zillow, in particular, only a few properties are visible at once on the scrol
 
 The Dashboard allows users to find properties based on the following criteria:
 Price Range
+
 #Beds
+
 #Baths
+
 Square Footage
 
 Detailed information, such as address and lister, from search results are presented in a table.
