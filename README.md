@@ -34,7 +34,7 @@ for x in propTypes:
 Additional Sources 
 https://www.guru99.com/selenium-python.html
 https://www.guru99.com/xpath-selenium.html
-
+https://webautomation.io/blog/how-to-clean-web-scraping-data-using-python-beautifulsoup/
 
 
   
