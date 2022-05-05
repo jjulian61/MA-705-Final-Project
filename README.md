@@ -7,12 +7,11 @@ I wanted to examine these properties in a way that Zillow may have missed
 
 On Zillow, in particular, only a few properties are visible at once on the scroll bar. So, I created a dashboard that more conveniently displays all relevant properties and parameters.
 
-The Dashboard allows users to find properties based on the following criteria: 
-Price, #Beds, #Baths, and Square Footage
+The Dashboard allows users to filter properties based on Property Lister
 
 Detailed information, such as address and lister, from search results are presented in a table.
 
-The pie chart shows the breakdown of search results by Property Lister Name
+The bar chart shows compares properties by property using price and square footage 
 
 
 Disclaimer: Zillow property listings are not static. Output results from the Cleaned Data Final Project.py file one month, or even a week from now may be different. But, the code will still generate the top 40 most expensive condo listings in NY on Zillow.
